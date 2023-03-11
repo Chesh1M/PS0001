@@ -1,2 +1,2 @@
 # PS0001
-NTU-PS0001 (Introduction to Computational Thinking) module by NTU
+NTU-PS0001 (Introduction to Computational Thinking) module from NTU
