@@ -1,3 +1,6 @@
+# In addition to normal connect4 rules, this version allows users to "pop"/remove the bottom-most piece of a selected row (if the piece belongs to them)
+# Easy and medium difficulty CPU implementation
+
 import random
 import numpy as np
 import time
